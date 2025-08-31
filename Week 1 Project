@@ -1,0 +1,1 @@
+This project analyzes and preprocesses Delhi Air Quality Index (AQI) data to support environmental monitoring and pollution control. The main goal is to clean, transform, and prepare the dataset for further analysis and predictive modeling.
